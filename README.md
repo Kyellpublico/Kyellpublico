@@ -1,11 +1,11 @@
 # Edsequille Publico 
 **Data Scientist | Machine Learning Engineer**
 
-📍 Lipa City, Philippines  
-📧 kyellpublico@gmail.com
-📱 +63 9062002179
-🔗 GitHub: https://github.com/Kyellpublico  
-🔗 LinkedIn: https://www.linkedin.com/in/edsequille-publico  
+📍 Lipa City, Philippines <br> 
+📧 kyellpublico@gmail.com <br>
+📱 +63 9062002179 <br>
+🔗 GitHub: https://github.com/Kyellpublico <br> 
+🔗 LinkedIn: https://www.linkedin.com/in/edsequille-publico <br> 
 
 ---
 
