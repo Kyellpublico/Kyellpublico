@@ -1,69 +1,141 @@
-# Hi there, I'm Edsequille Publico 👋
+# Edsequille Publico 
+**Data Scientist | Machine Learning Engineer**
 
-### AI/ML Engineer | DataCamp Certified AI Engineer for Developer Associate & Data Scientist Associate
-
-#### 📍 **Lipa City, Philippines** 📧 **kyellpublico@gmail.com** | 📱 **+63 90602002179** 
-
----
-
-I specialize in building and deploying high-impact AI solutions, with a focus on **Computer Vision (CV)**, **Vision-Language Models (VLMs)**, and **Predictive Analytics**. My work is driven by a mission to apply advanced machine learning to real-world challenges in health, agriculture, and disaster resilience within the Philippines.
-
----
-
-## 🚀 Technical Expertise
-* **Languages:** Python, C/C++, Dart 
-* **Models & Architecture:** Vision-Language Models (Qwen VL 2.5 72B), YOLO (Object Detection), RAG Architectures.
-* **Fine-tuning & Optimization:** QLoRa, 4-bit Quantization (AWQ), Model Calibration, Inference Optimization.
-* **Data Science:** Climate-Sensitive Health Forecasting, Time-Series Analysis, GIS Data Integration.
-* **Tools & Platforms:** PyTorch, Tensorflow, Scikit Learn, Pandas, Numpy, Matplotlib, Seaborn, LLMs, Vector Database, Roboflow, Runpod Serverless, Hugging Face, Kaggle, Google Colab.
-* **Currently Learning:** Cross-platform mobile development with **Flutter** and **Dart**.
+📍 Lipa City, Philippines  
+📧 kyellpublico@gmail.com
+📱 +63 9062002179
+🔗 GitHub: https://github.com/Kyellpublico  
+🔗 LinkedIn: https://www.linkedin.com/in/edsequille-publico  
 
 ---
 
-## 🛠 Key Projects
-### Dengue-Defensor: Climate-Driven Disease Early Warning System
-**Focus:** Public Health & Predictive Modeling <br>
-Climate-Sensitive Dengue Forecasting System using Deep Learning (LSTM) & XGBoost. Built with Project C-CHAIN data to provide 1-8 week early warnings for public health. <br>
-Github Repo: https://github.com/Kyellpublico/dengue-defensor
-
-### Ligtas-AI: Flood Early Warning System
-**Focus:** Public Safety & Predicting Modeling <br>
-Location-Aware Disaster Prediction using Stochastic XGBoost & Satellite Weather Data <br>
-Github Repo: https://github.com/Kyellpublico/ligtas-ai
-
-### AlignIQ AI (AI Resume Matcher)
-**Focus:** HR Tech & LLM Powered Application <br>
-An AI-powered RAG system for semantic resume parsing and automated job-fit gap analysis. <br>
-Github Repo: https://github.com/Kyellpublico/ai-resume-matcher
-
-### Medical Transcription Organizer using LLMs (OpenAI API)
-**Focus:** Healthcare Automation using NLP & LLM <br>
-This project demonstrates how Large Language Models (LLMs) can be used to automate medical documentation workflows. <br>
-Github Repo: https://github.com/Kyellpublico/Healthcare-NLP-Automation-using-LLMs
-
-### Qwen VL Optimization & Deployment
-**Focus:** Model Engineering & VLM <br>
-Research and implementation of fine-tuning strategies for **Qwen VL 2.5 72B**. I focused on reducing inference latency from 17s to under 10s using 4-bit quantization and QLoRa, specifically for product identification tasks.
-
-### YOLO Training, Optimization & Deployment
-**Focus:** Training YOLO modeland apply Data Augmentation <br>
-Gather, annotate data using Roboflow, apply data augmentation for robustness and trained YOLO model for detecting food ingredients achieving **84% mAP**.
+## PROFESSIONAL SUMMARY
+Data Scientist and Machine Learning Engineer with hands-on experience in developing predictive models, early warning systems, and data-driven decision support tools using open-source technologies. My work focuses on public health, disaster risk reduction, and applied AI research, particularly in climate-sensitive forecasting and public-sector applications. Experienced in end-to-end machine learning workflows including data preprocessing, model development, evaluation, documentation, and deployment-ready prototyping.
 
 ---
 
-## 🎓 Certifications
+## TECHNICAL SKILLS
 
-* **AI Engineer for Developer Assiociate** – DataCamp <br>
-[Certificate Credential](https://www.datacamp.com/certificate/AIEDA0015849367842)
-* **Data Scientist Assiociate** -DataCamp <br>
-[Certicate Credential](https://www.datacamp.com/certificate/DSA0017627754099)
+### Programming Languages
+- Python  
+- C/C++  
+- Dart  
+
+### Machine Learning & Data Science
+- Predictive Modeling  
+- Classification  
+- Time-Series Analysis  
+- Anomaly Detection  
+- Feature Engineering  
+- Model Evaluation and Calibration  
+
+### Deep Learning & AI
+- LSTM  
+- XGBoost  
+- YOLO (Object Detection)  
+- Vision-Language Models (VLM)  
+- Retrieval-Augmented Generation (RAG)  
+
+### Tools & Platforms
+- PyTorch  
+- TensorFlow  
+- Scikit-learn  
+- Pandas, NumPy, Matplotlib  
+- Hugging Face  
+- Kaggle  
+- Google Colab  
+- Vector Databases  
+- Roboflow  
+
+### Data Domains
+- Climate and Environmental Data  
+- Public Health Analytics  
+- Disaster Risk Modeling  
+- GIS-Integrated Datasets  
 
 ---
 
-## 📫 Let's Connect!
-* **LinkedIn:** https://www.linkedin.com/in/edsequille-publico
-* **Github:** https://github.com/Kyellpublico
+## Key Projects (Public Sector & Applied Research)
+
+### Dengue Defensor – Climate-Sensitive Disease Early Warning System
+**Focus:** Public Health | Predictive Modeling  
+
+Developed a machine learning-based dengue outbreak forecasting system using climate and environmental indicators. The system provides 1–8 week early warnings to support public health planning and risk assessment.
+
+**Key Contributions:**
+- Processed and analyzed climate-sensitive health datasets (Project C-CHAIN)  
+- Built and evaluated predictive models using LSTM and XGBoost  
+- Engineered lagged and rolling climate features for time-series forecasting  
+- Produced model evaluation metrics and documented results for interpretability  
+- Designed the system as a decision-support tool for health surveillance  
+
+🔗 GitHub: https://github.com/Kyellpublico/dengue-defensor  
 
 ---
 
-*"Building AI tools to empower local communities."*
+### Ligtas-AI – Flood and Disaster Early Warning System
+**Focus:** Public Safety | Disaster Risk Reduction  
+
+Designed a location-aware disaster prediction system using stochastic modeling and satellite-based weather data to support early warning and preparedness efforts.
+
+**Key Contributions:**
+- Integrated satellite weather and environmental datasets  
+- Implemented stochastic XGBoost models for flood risk prediction  
+- Focused on realistic model behavior through probabilistic approaches  
+- Structured outputs for practical early warning and planning use  
+
+🔗 GitHub: https://github.com/Kyellpublico/ligtas-ai  
+
+---
+
+## APPLIED AI & DATA SCIENCE PROJECTS
+
+### AlignIQ AI – AI Resume Matcher
+**Focus:** HR Technology | NLP & LLMs  
+
+Built a Retrieval-Augmented Generation (RAG) system for semantic resume parsing and automated job-fit gap analysis.
+
+🔗 GitHub: https://github.com/Kyellpublico/ai-resume-matcher  
+
+---
+
+### Healthcare Documentation Automation using LLMs
+**Focus:** Healthcare Automation | Natural Language Processing  
+
+Developed an NLP-based system using Large Language Models to automate medical documentation workflows and transcription organization.
+
+🔗 GitHub: https://github.com/Kyellpublico/Healthcare-NLP-Automation-using-LLMs  
+
+---
+
+## ADVANCED / RESEARCH PROJECTS
+
+### Vision-Language Model Optimization
+Researched and implemented fine-tuning and inference optimization strategies for Qwen VL 2.5 (72B), reducing inference latency from approximately 17 seconds to under 10 seconds using 4-bit quantization and QLoRA. Focused on deployment efficiency and performance constraints.
+
+---
+
+### YOLO Object Detection – Food Ingredient Identification
+Collected and annotated datasets using Roboflow, applied data augmentation techniques, and trained a YOLO model achieving 84% mAP for food ingredient detection tasks.
+
+---
+
+## CERTIFICATIONS
+
+- **AI Engineer for Developers Associate** – DataCamp  
+- **Data Scientist Associate** – DataCamp  
+
+🔗 Certificate Links:  
+- https://www.datacamp.com/certificate/AIEDA0015849367842  
+- https://www.datacamp.com/certificate/DSA0017627754099  
+
+---
+
+## CURRENT LEARNING
+- Cross-platform mobile development using Flutter and Dart  
+- Deployment-focused AI system design  
+
+---
+
+## PROFESSIONAL STATEMENT
+*Building AI-driven tools to support public health, disaster resilience, and data-informed decision-making for local communities.*
